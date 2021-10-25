@@ -6,6 +6,6 @@
 
 Think, reflect and execute.
 
-Want to code with me? 
+Currently working for @olist, using more Gitlab than Github =C
 
-Send me a message on twitter
+But, I'm working in @prats-tech and in my own Company @we-are-uranus
