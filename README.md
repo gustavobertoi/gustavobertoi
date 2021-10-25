@@ -6,6 +6,6 @@
 
 Think, reflect and execute.
 
-Currently working for @olist, using more Gitlab than Github =C
+Currently working for [@olist](https://github.com/olist), using more Gitlab than Github =C
 
-But, I'm working in @prats-tech and in my own Company @we-are-uranus
+But, I'm working in [@prats-tech](https://github.com/prats-tech) (My personal project)
