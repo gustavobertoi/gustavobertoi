@@ -6,4 +6,6 @@
 
 Think, reflect and execute.
 
-Making gambiarras everyday.
+Want to code with me? 
+
+Send me a message on twitter
