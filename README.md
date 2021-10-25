@@ -9,3 +9,5 @@ Think, reflect and execute.
 Currently working for [@olist](https://github.com/olist), using more Gitlab than Github =C
 
 But, I'm working in [@prats-tech](https://github.com/prats-tech) (My personal project)
+
+If you want to contribute with any project, just open a PR, do it.
