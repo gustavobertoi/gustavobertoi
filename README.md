@@ -5,4 +5,6 @@
 
 Software Engineer at [Thinksurance](https://thinksurance.de/). 
 
+Owner/Founder - [Open Source Cloud - Uranus Tech](https://github.com/opensource-cloud)
+
 Working from home, learning and practicing new things everyday.
