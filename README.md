@@ -7,5 +7,5 @@ Software Engineer at [Thinksurance](https://thinksurance.de/).
 
 ---
 
-Owner/Founder 
-- [Open Source Cloud - The new era of cloud services](https://github.com/opensource-cloud)
+Owner/Founder
+- [Open Source Cloud](https://github.com/opensource-cloud)
